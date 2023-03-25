@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sx4mxd</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **PXSV**
+- I am a Python and HTML developer currently working on **PXSV**. Looking for projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
