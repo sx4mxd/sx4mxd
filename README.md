@@ -13,7 +13,7 @@
 <h3 align="left">Some of my networks:</h3>
 <p align="left">
 - You can contact me from my discord:
-<a href="https://discord.gg/https://discord.com/users/683844700939354120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/683844700939354120" height="30" width="40" /></a>
+<a href="https://discord.com/users/683844700939354120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/683844700939354120" height="30" width="40" /></a>
 </p>
 <p></p>
 - Web page: Soon
